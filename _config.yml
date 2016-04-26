@@ -8,13 +8,13 @@ url:         "http://mkcleaningbend.com"
 date_format: "%b %-d, %Y"
 
 # Google services
-google_verification:
+google_verification: hHLA4CW2NaoFaelFQR_3JEtE-e4WNOakzYnD2i7lV-Y
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-76986088-1
 google_tag_manager:
 # Bing services
-bing_verification:
+bing_verification: B638B82579841BE9807EFE5391CBC981
 
 # Optional features
 animated:             false
