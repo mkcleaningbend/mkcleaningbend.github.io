@@ -14,7 +14,7 @@ If you elect to do so, you may provide us with your email address in order to su
 This Privacy Policy was last modified April 25, 2016.
 
 <blockquote><address>
-M&K Cleaning Services<br>
+M&K Cleaning Services Bend<br>
 2660 NE Hwy 20 STE 610-109<br>
 Bend, OR 97701<br>
 ☎ (541) 521-9076
