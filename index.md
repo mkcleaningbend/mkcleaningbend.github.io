@@ -6,70 +6,56 @@ summary:    See what the different elements looks like. Your markdown has never 
 categories: jekyll pixyll
 ---
 
-### Michael & Kristin
+#### Michael Cox & Kristin Hill, Owners.
 
-![Michael and Kristin · call (541) 521-9076)](/images/michal-and-kristin-1235x752.jpg)
+![Michael and Kristin · call (541) 521-9076)](/images/michael-and-kristin-1235x752.jpg)
 <hr>
-&nbsp; &nbsp; &nbsp; &nbsp;THERE IS A SIGNIFICANT amount of subtle, yet precisely calibrated, styling to ensure that your content is emphasized while still looking aesthetically pleasing. There is a significant amount of subtle. __Yet precisely calibrated__ — styling to ensure that your … content is emphasized while still looking aesthetically pleasing. That your <ins>content</ins> is emphasized.
+<p class="mb3">&nbsp; &nbsp; &nbsp; We are a family business offering cleaning services to fit your needs. Serving Bend, Redmond, Powell Butte, Tumalo, Sisters, and Sunriver. We want to give you exactly what you want — <span class="bold">Let us give you a price quote!</span> We offer one-time cleaning, weekly, bi-weekly, monthly, or seasonal services; commercial and residential.</p>
 
 <ul class="h3 bold">
   <li>Trustworthy, careful, professional.</li>
   <li>Fully equipped.</li>
   <li>Strong local references from many happy clients.</li>
-  <li>All employees background checked.</li>
+  <li>All employees background-checked.</li>
   <li>Commercial and residential.</li>
   <li>Fast workers, good work.</li>
   <li>Call us for a chat about your cleaning needs! <small class=
   "light-gray"> ☎ (541) 521-9076</small></li>
 </ul>
 
-> Fully insured and bonded LLC.
+> Fully <ins>insured and bonded</ins> LLC! … Michael & Kristen are also enrolled in the Oregon Online Central Background Registry — for your trust and peace of mind. 
 
 ## Services Include:
 
 {% highlight html %}
-<div class="m0 p0 bg-blue white">
-  <h3 class="h1">Hello, world!</h3>
-</div>
+
+· Residential Cleaning
+· Event Cleanup
+· Vacation Rentals
+· Deep Clean
+· Move in / Move out
+· Construction Cleanup
+· Window Washing — Inside + Outside
+· Porch, Patios, Walkways, Garage, Roof Gutters
+· Tender loving care! :)
+
 {% endhighlight %}
 
-### Watch what some of our customers are saying about us!
+<!-- ### Watch what some of our customers are saying about us!
 
-![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)
+![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)-->
 
-# Headings!
+# Let us work up a price quote for you!
 
-##### They draw the perfect amount of attention
+##### Text or call us: &nbsp;☎ (541) 521-9076
 
-This allows your content to have the proper informational and contextual hierarchy. Yay.
+Looking forward to speaking with you. :)
 
-### There are lists, too
+sincerely, 
 
-  * Apples
-  * Oranges
-  * Potatoes
-  * Milk
+<span class="bold italic">Michael & Kristin</span><BR>
+<a href="mailto:mkcleaningbend@gmail.com">mkcleaningbend@gmail.com</a>
 
-  1. Mow the lawn
-  2. Feed the dog
-  3. Dance
 
 <!-- larger image _![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_ -->
-
-
-However, you need to inject html if you'd like a citation footer. I will be working on a way to
-hopefully sidestep this inconvenience.
-
-<blockquote>
-  <p>
-    Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
-  </p>
-  <footer><cite title="Antoine de Saint-Exupéry">Antoine de Saint-Exupéry</cite></footer>
-</blockquote>
-
-### There's more being added all the time
-
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to request, or add, features.
-
-Happy writing.
 
