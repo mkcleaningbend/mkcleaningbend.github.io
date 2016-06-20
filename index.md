@@ -1,14 +1,17 @@
 ---
-layout:     post
-title:      M&K Cleaning Services Bend
-date:       2016-05-06 12:31:19
-summary:    See what the different elements looks like. Your markdown has never looked better. I promise.
+layout: post
+title: M&K Cleaning Services Bend
+date: {}
+summary: >-
+  See what the different elements looks like. Your markdown has never looked
+  better. I promise.
 categories: jekyll pixyll
+published: true
 ---
 
-#### Michael Cox & Kristin Hill, Owners.
+#### Michael Cox & Kristen Hill, Owners.
 
-![Michael and Kristin · call (541) 521-9076)](/images/michael-and-kristin-1235x752.jpg)
+![Michael and Kristen · call (541) 521-9076)](/images/michael-and-kristin-1235x752.jpg)
 <hr>
 <p class="mb3">&nbsp; &nbsp; &nbsp; We are a family business offering cleaning services to fit your needs. Serving Bend, Redmond, Powell Butte, Tumalo, Sisters, and Sunriver. We want to give you exactly what you want — <span class="bold">Let us give you a price quote!</span> We offer one-time cleaning, weekly, bi-weekly, monthly, or seasonal services; commercial and residential.</p>
 
@@ -53,9 +56,8 @@ Looking forward to speaking with you. :)
 
 sincerely, 
 
-<span class="bold italic">Michael & Kristin</span><BR>
+<span class="bold italic">Michael & Kristen</span><BR>
 <a href="mailto:mkcleaningbend@gmail.com">mkcleaningbend@gmail.com</a>
 
 
 <!-- larger image _![desk](https://cloud.githubusercontent.com/assets/1424573/3378137/abac6d7c-fbe6-11e3-8e09-55745b6a8176.png)_ -->
-
