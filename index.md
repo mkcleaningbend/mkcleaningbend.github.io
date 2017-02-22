@@ -6,14 +6,14 @@ summary: >-
   See what the different elements looks like. Your markdown has never looked
   better. I promise.
 categories: jekyll pixyll
-published: true
+published: false
 ---
 
-#### Michael Cox & Kristen Hill, Owners.
+#### Michael Cox, Owner.
 
-![Michael and Kristen · call (541) 521-9076)](/images/michael-and-kristin-1235x752.jpg)
+![Michael · call (541) 521-9076
 <hr>
-<p class="mb3">&nbsp; &nbsp; &nbsp; We are a family business offering cleaning services to fit your needs. Serving Bend, Redmond, Powell Butte, Tumalo, Sisters, and Sunriver. We want to give you exactly what you want — <span class="bold">Let us give you a price quote!</span> We offer one-time cleaning, weekly, bi-weekly, monthly, or seasonal services; commercial and residential.</p>
+<p class="mb3">&nbsp; &nbsp; &nbsp; A local buisness offering cleaning services to fit your needs. Serving Bend, Redmond, Powell Butte, Tumalo, Sisters, and Sunriver. We want to give you exactly what you want — <span class="bold">Let us give you a price quote!</span> We offer one-time cleaning, weekly, bi-weekly, monthly, or seasonal services; commercial and residential.</p>
 
 <ul class="h3 bold">
   <li>Trustworthy, careful, professional.</li>
@@ -40,7 +40,7 @@ published: true
 · Construction Cleanup
 · Window Washing — Inside + Outside
 · Porch, Patios, Walkways, Garage, Roof Gutters
-· Tender loving care! :)
+
 
 {% endhighlight %}
 
@@ -56,7 +56,7 @@ Looking forward to speaking with you. :)
 
 sincerely, 
 
-<span class="bold italic">Michael & Kristen</span><BR>
+<span class="bold italic">Michael</span><BR>
 <a href="mailto:mkcleaningbend@gmail.com">mkcleaningbend@gmail.com</a>
 
 
